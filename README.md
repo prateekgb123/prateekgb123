@@ -46,8 +46,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Prateek's GitHub stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekgb123&show_icons=true&theme=radical" alt="Prateek's GitHub stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgb123&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </p>
 
 ---
@@ -64,9 +64,9 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="linkedin.com/in/prateek-ballari-90436330b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+     <a href="https://www.linkedin.com/in/prateek-ballari-90436330b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/prateekgb123" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="prateekgb2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:prateekgb2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
