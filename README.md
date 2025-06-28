@@ -47,7 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prateekgb123&show_icons=true&theme=radical" alt="Prateek's GitHub stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekgb123&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </p>
 
 ---
