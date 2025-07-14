@@ -50,14 +50,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekgb123&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
