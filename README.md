@@ -58,6 +58,14 @@
 
 ---
 
+## 🌍 Open Source Contributions
+
+- ✅ Merged PR to fix redirect issue on "Add to Cart" button in the popular open-source e-commerce app.
+  - PR: [#48 – Fix add to cart redirect issue](https://github.com/ajaybor0/MERN-eCommerce/pull/48)
+- 🔧 Contributed to public repositories to improve functionality and user experience.
+
+---
+
 ## 🏆 Achievements
 
 - 🧠 Built a complete **AI-based mock interview platform** from scratch  
