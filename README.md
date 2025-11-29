@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekgb123&show_icons=true&theme=radical" width="450" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekgb123&show_icons=true&theme=radical" width="520" alt="GitHub Stats"/>
 </p>
 
 ---
@@ -55,6 +55,26 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekgb123&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+---
+
+## 🔁 PRs in the Last 12 Months (month-wise + total)
+
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/pull-requests?username=prateekgb123&limit=12&theme=radical" width="760" alt="PRs in last 12 months"/>
+</p>
+
+> This widget shows month-by-month PR counts and the total PRs across the last 12 months (rolling).
+
+---
+
+## 🔥 Weekly Streak Stats (weekly mode)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prateekgb123&theme=radical&mode=weekly" width="520" alt="Weekly Streak Stats"/>
+</p>
+
+> Weekly streak shows how many consecutive weeks you've been active (commits) — updated daily.
 
 ---
 
