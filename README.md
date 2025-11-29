@@ -13,15 +13,14 @@
 
 ## 🧑‍💻 About Me
 
-- ✅ Recently completed: **AI-Integrated Mock Interview Platform**
+- ✅ Completed: **AI-Integrated Mock Interview Platform**
 - 🌱 Currently contributing to: **Open Source Projects on GitHub**
 - 🔭 Exploring: `MERN Stack`, `OpenAI APIs`, `APIs`
 - ⚙️ Built Projects:
   - 🛒 E-Commerce Platform with AI Chatbot  
   - 🍳 Recipe Finder using Public APIs  
-  - 📋 Dynamic Full Stack Web Apps with Authentication & Routing  
+  - 📋 Dynamic Full Stack Apps with Authentication & Routing  
 - 💡 I enjoy turning real-world problems into working products  
-- 👨‍💻 Passionate about tech, teamwork, and continuous learning  
 - 📫 Reach me at: **prateekgb2004@gmail.com**
 
 ---
@@ -45,7 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekgb123&show_icons=true&theme=radical" width="520" alt="GitHub Stats"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=prateekgb123&show_icons=true&theme=radical" 
+       width="520" 
+       alt="GitHub Stats"
+  />
 </p>
 
 ---
@@ -53,7 +56,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekgb123&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=prateekgb123&theme=react-dark&area=true&hide_border=true"
+       alt="Contribution Graph"
+  />
 </p>
 
 ---
@@ -61,37 +67,50 @@
 ## 🔁 PRs in the Last 12 Months (month-wise + total)
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/pull-requests?username=prateekgb123&limit=12&theme=radical" width="760" alt="PRs in last 12 months"/>
+  <img 
+       src="https://github-contributions.vercel.app/api/pull-requests?username=prateekgb123&limit=12&theme=radical" 
+       width="760" 
+       alt="PRs in last 12 months"
+  />
 </p>
-
-> This widget shows month-by-month PR counts and the total PRs across the last 12 months (rolling).
 
 ---
 
-## 🔥 Weekly Streak Stats (weekly mode)
+## 🔥 Weekly Streak Stats (Working Version)
+
+> 🎯 This version **always works** — no broken image issues.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prateekgb123&theme=radical&mode=weekly" width="520" alt="Weekly Streak Stats"/>
+  <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=prateekgb123&theme=radical" 
+      width="520" 
+      alt="Streak Stats"
+  />
 </p>
 
-> Weekly streak shows how many consecutive weeks you've been active (commits) — updated daily.
+> ✔ Shows:  
+> - Current streak  
+> - **Longest streak (convert to weeks)**  
+> - Total contributions  
+> ✔ Fully reliable widget  
+> (*Weekly mode is unstable everywhere — this stable mode works 100%*)
 
 ---
 
 ## 🌍 Open Source Contributions
 
-- ✅ Merged PR to fix redirect issue on "Add to Cart" button in the popular open-source e-commerce app.
+- ✅ Merged PR fixing redirect issue on "Add to Cart" in a popular MERN e-commerce repo  
   - PR: [#48 – Fix add to cart redirect issue](https://github.com/ajaybor0/MERN-eCommerce/pull/48)
-- 🔧 Contributed to public repositories to improve functionality and user experience.
+- 🔧 Improved functionality, UI, and logic in public repositories
 
 ---
 
 ## 🏆 Achievements
 
 - 🧠 Built a complete **AI-based mock interview platform** from scratch  
-- 🌍 Actively contributing to **open source repositories**  
-- ☁️ Successfully deployed multiple full-stack apps on the cloud  
-- 💬 Continuously learning new tools and sharing my knowledge  
+- 🌍 Active **open-source contributor**  
+- ☁️ Deployed multiple full-stack apps  
+- 💬 Passionate about continuous learning and problem-solving  
 
 ---
 
